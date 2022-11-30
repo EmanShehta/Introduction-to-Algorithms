@@ -1,34 +1,36 @@
 <h1 align="center"> Introduction-to-Algorithms
 
-<h3 align="left"> Introduction-to-Algorithms-Notes
+<h2 align="left"> Introduction-to-Algorithms-Notes
+
 
 My notes while reading Introduction-to-Algorithms.
-
+<img align ="center" alt="coding" width="450" width="400"  src="https://go.mitpress.mit.edu/hubfs/Imported%20sitepage%20images/%3Fcollid=books_covers_0%26isbn=9780262046305%26type=-1.jpg">
+---------------------------------------------------------
 Here I will write my notes for every chapter of Introduction-to-Algorithms.
 
 You can find the notes of each chapter in the folder of that chapter.
 
 In this file I will write the notes of the introduction of the book.
 ----------------------------------------------------------
-Chapter 1 : INTRODUCTION
+**Chapter 1** : INTRODUCTION
 
-CHAPTER 2: GROWTH OF FUNCTIONS
+**CHAPTER 2** : GROWTH OF FUNCTIONS
 
-CHAPTER 3: SUMMATIONS
+**CHAPTER 3**: SUMMATIONS
 
-CHAPTER 4: RECURRENCES
+**CHAPTER 4**: RECURRENCES
 
-CHAPTER 5: SETS, ETC.
+**CHAPTER 5**: SETS, ETC.
 
-CHAPTER 6: COUNTING AND PROBABILITY
+**CHAPTER 6**: COUNTING AND PROBABILITY
 
-CHAPTER 7: HEAPSORT
+**CHAPTER 7**: HEAPSORT
 
-CHAPTER 8: QUICKSORT
+**CHAPTER 8**: QUICKSORT
 
-CHAPTER 9: SORTING IN LINEAR TIME
+**CHAPTER 9**: SORTING IN LINEAR TIME
 
-CHAPTER 10: MEDIANS AND ORDER STATISTICS
+**CHAPTER 10**: MEDIANS AND ORDER STATISTICS
 
 CHAPTER 11: ELEMENTARY DATA STRUCTURES
 
